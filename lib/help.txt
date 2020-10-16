@@ -1,3 +1,5 @@
 Redocly CORS proxy
 
+https://redoc.ly
+
 Terms of usage: https://redoc.ly/subscription-agreement
