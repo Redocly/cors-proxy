@@ -1,1 +1,1 @@
-# cors-proxy
+# Redocly CORS proxy
