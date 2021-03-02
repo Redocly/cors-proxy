@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Redocly/cors-proxy#readme",
   "dependencies": {
+    "http-delayed-response": "0.0.4",
     "http-proxy": "1.11.1",
     "proxy-from-env": "0.0.1"
   },
